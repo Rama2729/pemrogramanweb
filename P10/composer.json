@@ -1,0 +1,6 @@
+{
+    "require": {
+        "intervention/image": "^4.1",
+        "moneyphp/money": "^4.9"
+    }
+}
